@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Dental-Clinic-Website
+This project is a fully responsive Dental Clinic Website developed using ReactJS, Bootstrap, and Axios. The site includes four main pages (Home, About, Services, and Contact) each featuring interactive elements, accessible design, and mobile-friendly layouts. 
+>>>>>>> 2a2b5a06ad11caf99f5f7f4d71f7ad36ea530a4c
