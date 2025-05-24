@@ -1,0 +1,53 @@
+.services-section{
+    padding: 60px 0;
+    background-color: #f9f9f9;
+}
+
+.service-title{
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+    color: #343a40;
+    text-align: center;
+}
+
+.service-card{
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.3s ease, box-shawdow 0.3s ease;
+}
+
+.service-card:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+.service-body{
+    padding: 20px;
+}
+
+.service-card-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.service-caed-text{
+    font-size: 16px;
+    color: #666;
+}
+
+.card img {
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+  .card img {
+    height: 200px;
+  }
+}
